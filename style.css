@@ -12,15 +12,37 @@ body{
     position: fixed;
     top: 0;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
          
 }
+
+.menùcostum{
+    width: 80px;
+    
+}
+
+.wrappermenù{
+    margin-left: 10px;
+}
+
+
+.wrappernav{
+    margin-left: 60px;
+}
+
 
 .search-costum{
     width: 300px;
 }
 
+
+.logincostum{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10px;
+}
 
 .header-costum{
     margin-top: 150px;
