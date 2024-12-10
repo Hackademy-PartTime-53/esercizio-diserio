@@ -1,0 +1,26 @@
+
+
+.title-costum{
+    text-align: center;
+}
+
+.subtitle-costum{
+    text-align: center;
+}
+
+.section-costum{
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.sectionwrapper{
+    
+    background-color: black;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
